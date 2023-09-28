@@ -24,8 +24,8 @@
 ### First forms of Racism
 - Antisemitism was the first form of slavery, so color prejudice did not cause slavery, rather slavery caused color prejudice(?).
 
-<br />
-![Alt text](https://github.com/km322/HITO-136/blob/d93cf553fd543e72926823d2fd093c061dfed95b/Images/%22DALL_E%202023-09-15%2020.38.13.png)
+## Testing images in Markdown
+![alt text](https://github.com/km322/HITO-136/blob/d93cf553fd543e72926823d2fd093c061dfed95b/Images/%22DALL_E%202023-09-15%2020.38.13.png?raw=true)
 
 ## Questions?
 - How do we choose the topics for our essay?
